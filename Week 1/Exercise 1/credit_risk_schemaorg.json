@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Credit Risk Benchmark Dataset",
+  "description": "Dataset with 16714 rows and 11 columns for credit risk prediction.",
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "adilshamim8"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  },
+  "keywords": [
+    "rev_util",
+    "age",
+    "late_30_59",
+    "debt_ratio",
+    "monthly_inc",
+    "open_credit",
+    "late_90",
+    "real_estate",
+    "late_60_89",
+    "dependents",
+    "dlq_2yrs"
+  ],
+  "encodingFormat": "text/csv",
+  "url": "https://www.kaggle.com/datasets/adilshamim8/credit-risk-benchmark-dataset"
+}

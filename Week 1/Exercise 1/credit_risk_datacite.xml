@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:resource xmlns:ns0="http://datacite.org/schema/kernel-4">
+  <identifier identifierType="DOI">10.1234/credit-risk-benchmark</identifier>
+  <creators>
+    <creator>
+      <creatorName>adilshamim8</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Credit Risk Benchmark Dataset</title>
+  </titles>
+  <publisher>Kaggle</publisher>
+  <publicationYear>2023</publicationYear>
+  <subjects>
+    <subject>rev_util</subject>
+    <subject>age</subject>
+    <subject>late_30_59</subject>
+    <subject>debt_ratio</subject>
+    <subject>monthly_inc</subject>
+    <subject>open_credit</subject>
+    <subject>late_90</subject>
+    <subject>real_estate</subject>
+    <subject>late_60_89</subject>
+    <subject>dependents</subject>
+    <subject>dlq_2yrs</subject>
+  </subjects>
+  <descriptions>
+    <description descriptionType="Abstract">Dataset with 16714 rows and 11 columns for credit risk prediction.</description>
+  </descriptions>
+</ns0:resource>
